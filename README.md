@@ -37,3 +37,28 @@ working on [Obsidian](https://obsidian.md) Plugins
     <a href="https://jetbrains.com/teamcity" target="_blank"><img alt="TeamCity" src="https://img.shields.io/badge/-TeamCity-07C3F2?logo=teamcity&logoColor=white"></a>
     <a href="https://www.sonarqube.org/" target="_blank"><img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4c9bd6?logo=sonarqube&logoColor=white"></a>
 </p>
+
+### Projects
+
+#### Obsidian
+
+
+<div width="100%" align="center">
+      <a align="left" href="https://github.com/joethei/obsidian-rss" title="Obsidian RSS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-rss"></a>
+      <a align="left" href="https://github.com/joethei/obsidian-plantuml" title="PlantUML for Obsidian"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-plantuml"></a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+   <a align="left" href="https://github.com/joethei/obsidian-tts" title="Obsidian Text to Speech"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-tts"></a>
+      <a align="left" href="https://github.com/joethei/obsidian-link-favicon" title="Obsidian Link Favicons"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-link-favicon"></a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+    <a align="left" href="https://github.com/joethei/obsidian-key-promoter" title="Obsidian Key Promoter"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-key-promoter"></a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>

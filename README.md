@@ -58,6 +58,7 @@ working on [Obsidian](https://obsidian.md) Plugins
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
+        <a align="left" href="https://github.com/joethei/obsidian-tagcloud" title="Obsidian Tag & Word Cloud"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-tagcloud"></a>
     <a align="left" href="https://github.com/joethei/obsidian-key-promoter" title="Obsidian Key Promoter"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-key-promoter"></a>
 </div>
 

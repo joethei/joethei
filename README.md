@@ -2,6 +2,8 @@
 Computer Science Student,
 working on [Obsidian](https://obsidian.md) Plugins
 
+![](https://github-readme-stats.vercel.app/api?username=joethei&show_icons=true)
+
 ### 👨‍💻 Programming languages
 
 <p>
@@ -9,7 +11,6 @@ working on [Obsidian](https://obsidian.md) Plugins
     <a href="https://github.com/search?q=user%3Ajoethei+language%3Akotlin" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ajoethei+language%3AtypeScript" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Ajoethei+language%3Aphp" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-      <a href="https://pdf.joethei.space/" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries

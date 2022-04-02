@@ -44,23 +44,23 @@ working on [Obsidian](https://obsidian.md) Plugins
 #### Obsidian
 
 
-<div width="100%" align="center">
-      <a align="left" href="https://github.com/joethei/obsidian-rss" title="Obsidian RSS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-rss"></a>
-      <a align="left" href="https://github.com/joethei/obsidian-plantuml" title="PlantUML for Obsidian"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-plantuml"></a>
-</div>
+##### Integrations
 
-<br/><br/><br/><br/><br/><br/>
+<a href="https://github.com/joethei/obsidian-rss" title="RSS Reader"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-rss"></a>
+<a href="https://github.com/joethei/obsidian-calibre" title="Calibre Importer"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-calibre"></a>
 
-<div width="100%" align="center">
-   <a align="left" href="https://github.com/joethei/obsidian-tts" title="Obsidian Text to Speech"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-tts"></a>
-      <a align="left" href="https://github.com/joethei/obsidian-link-favicon" title="Obsidian Link Favicons"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-link-favicon"></a>
-</div>
+##### Display
 
-<br/><br/><br/><br/><br/><br/>
+<a align="left" href="https://github.com/joethei/obsidian-plantuml" title="PlantUML"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-plantuml"></a>
+<a align="left" href="https://github.com/joethei/obsidian-tagcloud" title="Tag, Word & Link Cloud"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-tagcloud"></a>
+<a href="https://github.com/joethei/obsidian-link-favicon" title="Link Favicons"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-link-favicon"></a>
 
-<div width="100%" align="center">
-        <a align="left" href="https://github.com/joethei/obsidian-tagcloud" title="Obsidian Tag & Word Cloud"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-tagcloud"></a>
-    <a align="left" href="https://github.com/joethei/obsidian-key-promoter" title="Obsidian Key Promoter"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-key-promoter"></a>
-</div>
+##### Editor
 
-<br/><br/><br/><br/><br/><br/>
+<a align="left" href="https://github.com/joethei/obsidian-control-characters" title="Control Characters"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-control-characters"></a>
+<a align="left" href="https://github.com/joethei/obsidian-key-promoter" title="Key Promoter"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-key-promoter"></a>
+
+
+##### Misc
+
+<a href="https://github.com/joethei/obsidian-tts" title="Text to Speech"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-tts"></a>

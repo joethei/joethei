@@ -23,26 +23,24 @@ You can also find me on:
 ### 👨‍💻 Programming languages
 
 <p>
+    <a href="https://github.com/search?q=user%3Ajoethei+language%3AtypeScript" target="_blank"><img alt="TypeScript" src="https://shields.joethei.xyz/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Ajoethei+language%3Ajava" target="_blank"><img alt="Java" src="https://shields.joethei.xyz/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Ajoethei+language%3Akotlin" target="_blank"><img alt="Kotlin" src="https://shields.joethei.xyz/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Ajoethei+language%3AtypeScript" target="_blank"><img alt="TypeScript" src="https://shields.joethei.xyz/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Ajoethei+language%3Aphp" target="_blank"><img alt="PHP" src="https://shields.joethei.xyz/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="https://javalin.io" target="_blank"><img alt="Javalin" src="https://shields.joethei.xyz/badge/Javalin-20232a.svg?logo=javalin&logoColor=%2361DAFB"></a>
     <a href="https://svelte.dev" target="_blank"><img alt="Svelte" src="https://shields.joethei.xyz/badge/Svelte-ff3e00.svg?logo=svelte&logoColor=%2361DAFB"></a>
     <a href="https://github.com/obsidianmd/obsidian-api" target="_blank"><img alt="Obsidian API" src="https://shields.joethei.xyz/badge/ObsidianMD API-483699.svg?logo=obsidianmd&logoColor=%2361DAFB"></a>
-    <a href="https://symfony.com/" target="_blank"><img alt="Symfony" src="https://shields.joethei.xyz/badge/Symfony-000000.svg?logo=symfony&logoColor=%2361DAFB"></a>
+    <a href="https://javalin.io" target="_blank"><img alt="Javalin" src="https://shields.joethei.xyz/badge/Javalin-20232a.svg?logo=javalin&logoColor=%2361DAFB"></a>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-    <a href="#" target="_blank"><img alt="MySQL" src="https://shields.joethei.xyz/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#" target="_blank"><img alt="PostgreSQL" src ="https://shields.joethei.xyz/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="https://www.mysql.com/products/standard/" target="_blank"><img alt="MySQL" src="https://shields.joethei.xyz/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="https://redis.io" target"_blank_"><img alt="Redis" src="https://shields.joethei.xyz/badge/Redis-DC382D.svg?logo=redis&logoColor=black"</a>
 </p>
 
 ### 💻 Software and tools

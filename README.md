@@ -7,12 +7,13 @@
 I work as a software developer in the [Obsidian](https://obsidian.md) team.
 Mostly writing internal tools.
 
-Studying computer science in [Emden](http://www.informatik-emden.de/).
-
 In my free time I have also written a few [Obsidian](https://obsidian.md) community plugins, mostly before being hired.
 I still maintain these and on occassion write new ones.
 
 I also write the ocasional addon for [Firefox](https://firefox.com) & [Chromium](https://www.chromium.org/) based browsers.
+
+
+Studied computer science in [Emden](http://www.informatik-emden.de/).
 
 
 You can also find me on:

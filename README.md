@@ -2,8 +2,6 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=joethei&show_icons=true&theme=dracula">
 
-<img align="right" width="50%" src="https://wakapi-graphs.joethei.xyz/api/v1/languages?url=https://wakapi.joethei.de/api/v1/users/joethei/stats/30_days">
-
 I work as a software developer in the [Obsidian](https://obsidian.md) team.
 Mostly writing internal tools.
 

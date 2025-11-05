@@ -46,7 +46,6 @@ You can also find me on:
 
 #### Integrations
 
-<a href="https://github.com/joethei/obsidian-rss" title="RSS Reader"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-rss&theme=dracula"></a>
 <a href="https://github.com/joethei/obsidian-calibre" title="Calibre Importer"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=joethei&repo=obsidian-calibre&theme=dracula"></a>
 
 #### Display

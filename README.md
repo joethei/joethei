@@ -2,8 +2,10 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=joethei&show_icons=true&theme=dracula">
 
-I work as a software developer in the [Obsidian](https://obsidian.md) team.
+I worked as a software developer in the [Obsidian](https://obsidian.md) team.
 Mostly writing internal tools.
+
+Currently looking for a new job.
 
 In my free time I have also written a few [Obsidian](https://obsidian.md) community plugins, mostly before being hired.
 I still maintain these and on occassion write new ones.
